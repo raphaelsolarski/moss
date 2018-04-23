@@ -1,0 +1,2 @@
+* incomming stream of selected items(e.g. purchased products or watched movies)
+* some rest api that can say which items are recomended for given user or for given item - can be useful when we don't have user selection history
